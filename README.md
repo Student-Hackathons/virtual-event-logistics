@@ -37,3 +37,7 @@ _Platform/Setup for Streaming & Community Interaction_
   - GitHub Bot Integration for tracking
     - [Hackathon Server Template](https://discord.com/template/UqzZCTj2zfwy)
 
+- [GitHub Virtual Event Kit](https://education.github.com/experiences/virtual_event_kit)
+  - Starter Virtual Event Setup Toolkit 
+  - The Virtual Event Kit gives students the resources to make running online events simple and accessible
+
